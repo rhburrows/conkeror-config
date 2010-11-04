@@ -1,0 +1,11 @@
+.mode-line {
+    font: 11px Tahoma;
+    padding: 0px;
+    border: 1px solid #444;
+    background-color: #000;
+    color: #fff;
+}
+
+.mode-line label {
+    color: white;
+}
